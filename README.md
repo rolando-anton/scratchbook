@@ -1,7 +1,18 @@
-## scratchbook
+## 1. FGD IP/Domain lookup.
 
-#1. FGD IP/Domain lookup, usage:
+requirement: html2text
 
+On macos: 
+
+```
+brew install html2text
+```
+
+
+Usage:
+
+
+````
 sh fgd_lookup.sh 246.73.107.120
 ===============================================================================
  - FGD Lookup v1.0              - 
@@ -23,3 +34,4 @@ removed as Not Rated
 May 19th, 2010 @ 03:59:21 PDT
 added as Malicious Websites
 ===============================================================================
+```
